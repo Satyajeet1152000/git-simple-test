@@ -2,5 +2,8 @@
 
 New content in new test branch
 
-try 1
-Edit from github repo
+### Installation instructions for your project.
+
+---
+
+Just copy paste
